@@ -4,7 +4,7 @@
   /* -----------------------------------------------------
      Config
   ----------------------------------------------------- */
-  const DEFAULT_API = 'http://127.0.0.1:8000';
+  const DEFAULT_API = 'https://nyc-airbnb-udi5.onrender.com/';
   const STORAGE_KEY = 'afterdark.apiUrl';
 
   // The classic NYC Airbnb schema trains room_type as three classes.
